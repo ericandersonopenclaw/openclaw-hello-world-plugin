@@ -1,0 +1,10 @@
+{
+  "name": "@openclaw/hello-world",
+  "version": "1.0.0",
+  "description": "Hello World plugin for OpenClaw",
+  "main": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "openclaw": "*"
+  }
+}
